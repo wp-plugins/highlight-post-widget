@@ -11,11 +11,11 @@ A widget for displaying highlighted post on your sidebar and displayed your rece
 
 == Description ==
 
-The purpose of this plugin is simple. I want to list recents update of my posts with litle notes on it. Similiar to default “Recent Post” by Wordpress, but this one sort the post by last modified time.
+The purpose of this plugin is simple. I want to list recents update of my posts. Similiar to default “Recent Post” by Wordpress, but this one sort the post by last modified time and enable to add a short note about change or update being made.
 
 For example, I maintaince a “wordpress plugin” and create a post about that plugin. When time goes by, that post soon ‘disappeared’ from Home index and neglected by visitor when there are some new post published.
 
-Recently I release a new version of the plugin and updated the post. I want to let the visitors know that there is a new version of the plugin, unfortunately… there is no way I can do except to change it as sticky post and make it listed on the top of Home index. But that not my choice. Instead of change it as sticky post, I want to list it on my sidebar and displayed all over my blog. So I create this plugin for that purpose.
+Recently I release a new version of the plugin and updated the post. When I want to attract visitors that there is a new version of the plugin, unfortunately, there is no way I can do except to change it as sticky post– make it listed on the top of Home index. But that not my choice. I want to list it on my sidebar and displayed all over my blog. So I create this plugin for that purpose.
 
 == Installation ==
 
@@ -26,15 +26,16 @@ I create this plugin for Wordpress version 2.9.2. I never test it on lower versi
 Installation:
 
 How to install this plugin manually
-1. Download: download the plugin to your computer
-2. Extract & Upload: extract the source code and upload it to your wordpress plugin directory
-3. Activate: login to WP-Admin and activate Highlight Post plugin from Plugins page.
 
-Appearance (CSS)
+* Download: download the plugin to your computer
+* Extract & Upload: extract the source code and upload it to your wordpress plugin directory
+* Activate: login to WP-Admin and activate Highlight Post plugin from Plugins page.
 
-I did not add any CSS to this plugin. It's up to you to customize and adding it 
-to your style (CSS) of your theme. Just add the code below to the style 
-(CSS) of your theme to change the appearance:
+Appearance/CSS:
+
+I did not add any CSS to this plugin. By default, it will use the standard style, as same as “Recent Post” widget. Below are the hint to change the style of this widget. 
+
+Just add the code below to your style.
 
 Template CSS:
 
@@ -42,7 +43,7 @@ Template CSS:
 * #sidebar li.widget_highlight_post span.highlight_separator {your_code_goes_here}
 * #sidebar li.widget_highlight_post span.highlight_note {your_code_goes_here}
 
-Here the example:
+The Example:
 
 * #sidebar li.widget_highlight_post {}
 * #sidebar li.widget_highlight_post a span.highlight_separator{font-weight: bold; color: #999999 !important;}
@@ -50,9 +51,13 @@ Here the example:
 
 == Frequently Asked Questions ==
 
+= How to change the appearance? =
+
+You have to edit style.css of your theme, and add some code as mentioned in **Installation** instruction.
+
 == Screenshots ==
 
-* snapshoot.png
+1. Add or edit the custom field to be displayed as a notes on the sidebar as you can find in snapshoot.png
 
 == Changelog ==
 
