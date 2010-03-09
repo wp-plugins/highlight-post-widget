@@ -52,6 +52,8 @@ Here the example:
 
 == Screenshots ==
 
+* snapshoot.png
+
 == Changelog ==
 
 = 1.0 =
