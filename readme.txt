@@ -15,7 +15,7 @@ The purpose of this plugin is simple. I want to list recents update of my posts 
 
 For example, I maintaince a “wordpress plugin” and create a post about that plugin. When time goes by, that post soon ‘disappeared’ from Home index and neglected by visitor when there are some new post published.
 
-Recently I release a new version of the plugin and updated the post. I want to let the visitors know that there is a new version of the plugin, unhappily… there is no way I can do except to change it as sticky post and make it listed on the top of Home index. But that not my choice. Instead of change it as sticky post, I want to list it on my sidebar and displayed all over my blog. So I create this plugin for that purpose…
+Recently I release a new version of the plugin and updated the post. I want to let the visitors know that there is a new version of the plugin, unfortunately… there is no way I can do except to change it as sticky post and make it listed on the top of Home index. But that not my choice. Instead of change it as sticky post, I want to list it on my sidebar and displayed all over my blog. So I create this plugin for that purpose.
 
 == Installation ==
 
