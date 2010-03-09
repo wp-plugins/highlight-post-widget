@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Highlight Post Widget
-Plugin URI: http://blog.lokamaya.net/code-php/highlight-post-widget-for-wordpress
+Plugin URI: http://blog.lokamaya.net/code-php/highlight-post-widget-plugin
 Description: A widget for displaying highlighted post by adding custom field to the post. You can specify the name of custom field from Widget setting. 
 Author: Zaenal/Lokamaya
 Version: 1.0
