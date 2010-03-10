@@ -2,7 +2,7 @@
 Plugin Name: Highlight Post Widget
 Contributors: Zaenal/Lokamaya
 Donate link: http://blog.lokamaya.com/donate
-Tags: widget, post, highlight, sidebar, plugin
+Tags: widget, post, highlight, sidebar, plugin, modified, sticky
 Requires at least: 2.9.2
 Tested up to: 2.9.2
 Stable tag: 1.0
@@ -19,11 +19,11 @@ Recently I release a new version of the plugin and updated the post. When I want
 
 == Installation ==
 
-Requirement: 
+= Requirement: =
 
 I create this plugin for Wordpress version 2.9.2. I never test it on lower version, but I think it should work on Wordpress version 2.8 that support dynamic sidebar. Right, you also must use ‘widget ready‘ theme. 
     
-Installation:
+= Installation: =
 
 How to install this plugin manually
 
@@ -31,7 +31,7 @@ How to install this plugin manually
 * Extract & Upload: extract the source code and upload it to your wordpress plugin directory
 * Activate: login to WP-Admin and activate Highlight Post plugin from Plugins page.
 
-Appearance/CSS:
+= Appearance/CSS: =
 
 I did not add any CSS to this plugin. By default, it will use the standard style, as same as “Recent Post” widget. Below are the hint to change the style of this widget. 
 
@@ -57,7 +57,7 @@ You have to edit style.css of your theme and add some code as mentioned in **Ins
 
 == Screenshots ==
 
-1. Add or edit the custom field to be displayed as a notes on the sidebar as you can find in snapshoot.png
+1. Add or edit the custom field to be displayed as a note on the sidebar as you can find in screenshot-1.png
 
 == Changelog ==
 
