@@ -1,7 +1,7 @@
 === Plugin Name ===
 Plugin Name: Highlight Post Widget
 Contributors: Zaenal/Lokamaya
-Donate link: http://blog.lokamaya.com/donate
+Donate link: http://blog.lokamaya.net/donate
 Tags: widget, post, highlight, sidebar, plugin, modified, sticky
 Requires at least: 2.9.2
 Tested up to: 2.9.2
