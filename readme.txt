@@ -11,11 +11,11 @@ A widget for displaying highlighted post on your sidebar and displayed your rece
 
 == Description ==
 
-The purpose of this plugin is simple. I want to list recents update of my posts. Similiar to default “Recent Post” by Wordpress, but this one sort the post by last modified time and enable to add a short note about change or update being made.
+The purpose of this plugin is simple. I want to list recents update of my posts. Similiar to default “Recent Posts Widget” by Wordpress, but this one sort the post by last modified time and enable to add a short note about change or update being made.
 
-For example, I maintaince a “wordpress plugin” and create a post about that plugin. When time goes by, that post soon ‘disappeared’ from Home index and neglected by visitor when there are some new post published.
+For example, I maintaince a wordpress plugin (we name it, “Hollydolly Plugin”) and create a post about it on my blog. And because the nature of blog—when new posts are added the older ones are taken down automatically—it’s only a matter of time that post ‘disappeared’ from frontpage and no longer seen by visitor. So, when I release a new version of “Hollydolly Plugin” and updated the old post about it, unfortunately, there is no way I can do to ‘attract’ visitor to read (again) that post.
 
-Recently I release a new version of the plugin and updated the post. When I want to attract visitors that there is a new version of the plugin, unfortunately, there is no way I can do except to change it as sticky post– make it listed on the top of Home index. But that not my choice. I want to list it on my sidebar and displayed all over my blog. So I create this plugin for that purpose.
+Right, in the new version of Wordpress (since version 2.7) there is an option to make it as sticky post—make it listed on the top of frontpage. But that not my choice. I want to list it on my sidebar and displayed all over my blog. So I create this plugin for that purpose.
 
 == Installation ==
 
