@@ -5,7 +5,7 @@ Donate link: http://blog.lokamaya.net/donate
 Tags: widget, post, highlight, sidebar, plugin, modified, sticky
 Requires at least: 2.9.2
 Tested up to: 2.9.2
-Stable tag: 1.0
+Stable tag: 1.0.2
 
 A widget for displaying highlighted post on your sidebar and displayed your recent update post. 
 
@@ -63,3 +63,6 @@ You have to edit style.css of your theme and add some code as mentioned in **Ins
 
 = 1.0 =
 * Released this plugin
+
+= 1.0.2 =
+* Fix: missing UL close tag when generating widget
