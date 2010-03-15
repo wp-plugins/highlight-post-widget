@@ -76,6 +76,7 @@ function widget_highlight_post_init() {
         $metafield = $options['metafield'];
         $number = $options['number'];
         $separator = $options['separator'];
+        $separator = str_replace('&', '&amp;', $separator);
         if ($number > 5) $number = 5;
         elseif ($number < 1) $number = 1;
         
